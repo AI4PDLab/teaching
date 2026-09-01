@@ -26,8 +26,6 @@ Teaching materials developed by the Artificial Intelligence for Protein Design (
 
 The notebooks are designed to run in Google Colab. They can be followed in numerical order; notebooks 4a and 4b provide two alternative REXzyme examples.
 
-Each notebook contains the relevant background, installation steps, practical exercises, and references to the original methods and publications.
-
 ## Reuse and citation
 
-When reusing these materials, please retain the notebook attribution and cite the original methods and publications referenced within each notebook.
+When reusing these materials, please retain the notebook attribution.
