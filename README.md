@@ -9,7 +9,7 @@ Teaching materials developed by the Artificial Intelligence for Protein Design (
 | Presentation | Status |
 | --- | --- |
 | **Generative AI in Protein Research** | WIP |
-| **Presentation 2** | WIP |
+| **Reinforcement Learning and Explainable AI** | WIP |
 
 ## Practical notebooks
 
