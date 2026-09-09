@@ -2,14 +2,14 @@
 
 Teaching materials developed by the Artificial Intelligence for Protein Design (AI4PD) Lab at the Centre for Genomic Regulation (CRG) for courses, workshops, and lectures on generative artificial intelligence, protein language models, and protein design.
 
-> **This repository is under development.** Presentations and notebooks are currently being reviewed and expanded.
+> **This repository is under development.** Additional teaching materials will be added over time.
 
 ## Presentations
 
-| Presentation | Status |
+| Presentation | PDF |
 | --- | --- |
-| **Generative AI in Protein Research** | WIP |
-| **Reinforcement Learning and Explainable AI** | WIP |
+| **Generative AI in Protein Research** | [View slides](https://drive.google.com/file/d/14nMUZbt8lq-CJ-9fN0vXbo1wlrZ7qgb9/view?usp=drivesdk) |
+| **Reinforcement Learning and Explainable AI** | [View slides](https://drive.google.com/file/d/1fQ0USaIXJKYl5rO8Xb-k8cl3DMwceRwk/view?usp=drivesdk) |
 
 ## Practical notebooks
 
