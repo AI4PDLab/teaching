@@ -1,4 +1,4 @@
-# AI4PD teaching materials
+# AI4PD teaching materials 
 
 Teaching materials developed by the Artificial Intelligence for Protein Design (AI4PD) Lab at the Centre for Genomic Regulation (CRG) for courses, workshops, and lectures on generative artificial intelligence, protein language models, and protein design.
 
